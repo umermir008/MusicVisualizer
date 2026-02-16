@@ -1,0 +1,14 @@
+{
+  "name": "3d-ai-music-visualizer",
+  "version": "1.0.0",
+  "description": "A responsive, interactive front-end website where music playback controls a live 3D visualizer using HTML, TailwindCSS, JavaScript, Three.js, and GSAP.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
